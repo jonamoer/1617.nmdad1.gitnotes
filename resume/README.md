@@ -1,19 +1,18 @@
+#Curicculum Vitae
 
 
+Naam: Jonatan Moerman <br>
+Adres:Wolfputstraat 101 <br>
+Postcode en woonplaats:9041 Oostakker <br>
+Mobiel:0479/13.39.63 <br>
+E-mail:jonatan.moerman@gmail.com <br>
+Geboortedatum:22/08/1994 <br>
+Nationaliteit:Belg <br>
+Rijbewijs:B <br>
+Burgerlijke staat:Ongehuwd <br>
 
-Naam:						Jonatan Moerman
-Adres:						Wolfputstraat 101
-Postcode en woonplaats:		9041 Oostakker
-Mobiel:					    0479/13.39.63
-E-mail:						jonatan.moerman@gmail.com
-Geboortedatum:				22/08/1994
-Nationaliteit:				Belg
-Rijbewijs:					B
-Burgerlijke staat:			Ongehuwd
 
-
-Opleidingen	
-----------												
+##Opleidingen												
 
 2014 - heden			Arteveldehogeschool
 						Grafische en digitale media
@@ -29,14 +28,14 @@ Opleidingen
 						Lagere school
 
 
-Automatiseringskennis
-----------											
+##Automatiseringskennis
+											
 
 MS Word, Excel, PowerPoint, Adobe cloud (InDesign, illustrator, premiere, …),  Maxcon cinema4D, DaVinci Resolve
 
 
-Werkervaring										
-----------		
+##Werkervaring										
+	
 
 
 augustus - september 2015 – 2016 		Bedrijf: Gent Festival van Vlaanderen 
@@ -57,7 +56,7 @@ oktober 2010 - mei 2011			        Bedrijf : bakkerij Hemelsoet te Oostakker
 						                Functie: verkoper
 
 
-Talen												
+##Talen												
 ----------		
 
 Nederlands: moedertaal
@@ -70,7 +69,7 @@ Persoonlijk eigenschappen
 Sociaal, stiptheid, zelfzeker, verantwoordelijk.
 
 
-Hobby’s 
+##Hobby’s 
 ----------											
 
 Scouts (Groepsleiding), muziek en gamen.
