@@ -15,12 +15,12 @@
 
 ##Opleidingen												
 
-**2014 - heden**: Arteveldehogeschool GDM - Multimediaproductie
-**2013 - 2014**: PCVO Waas & Durme - Computeroperating en PLC
-**2012 - 2013**: EDUGO Campus Glorieux - Regeltechnieken
-**2008 - 2012**: EDUGO Campus Glorieux - Elektriciteit
-**2006 - 2008**: EDUGO Campus De Brug - Metaalbewerking en elektriciteit 
-**2000 - 2006**: EDUGO Slotendries Lagere school
+**2014 - heden**: Arteveldehogeschool GDM - Multimediaproductie <br>
+**2013 - 2014**: PCVO Waas & Durme - Computeroperating en PLC <br>
+**2012 - 2013**: EDUGO Campus Glorieux - Regeltechnieken <br>
+**2008 - 2012**: EDUGO Campus Glorieux - Elektriciteit <br>
+**2006 - 2008**: EDUGO Campus De Brug - Metaalbewerking en  elektriciteit <br>
+**2000 - 2006**: EDUGO Slotendries Lagere school <br>
 
 
 ##Automatiseringskennis
