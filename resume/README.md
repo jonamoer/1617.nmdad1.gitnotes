@@ -61,7 +61,9 @@ Functie: Allround medewerker
 
 
 ##Persoonlijk eigenschappen								
---------
+
+----
+
 - sociaal 
 - stiptheid 
 - zelfzeker 
