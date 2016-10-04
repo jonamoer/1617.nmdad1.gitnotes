@@ -5,7 +5,7 @@
 **Adres:** Wolfputstraat 101 <br>
 **Postcode en woonplaats**: 9041 Oostakker <br>
 **Mobiel**: 0479/13.39.63 <br>
-**E-mail**: onatan.moerman@gmail.com <br>
+**E-mail**: jonatan.moerman@gmail.com <br>
 **Geboortedatum**: 22/08/1994 <br>
 **Nationaliteit**: Belg <br>
 **Rijbewijs**: B <br>
