@@ -1,5 +1,5 @@
 #Curicculum Vitae
-
+--------
 ![enter image description here](https://scontent-bru2-1.xx.fbcdn.net/t31.0-8/12977095_10209244966224541_5494851142771598158_o.jpg)
 
 **Naam**:  Jonatan Moerman <br>
@@ -14,7 +14,7 @@
 
 
 ##Opleidingen												
-
+--------
 **2014 - heden**: Arteveldehogeschool GDM - Multimediaproductie <br>
 **2013 - 2014**: PCVO Waas & Durme - Computeroperating en PLC <br>
 **2012 - 2013**: EDUGO Campus Glorieux - Regeltechnieken <br>
@@ -24,13 +24,17 @@
 
 
 ##Automatiseringskennis
-											
-MS Word, Excel, PowerPoint, Adobe cloud (InDesign, illustrator, premiere, …),  Maxcon cinema4D, PHPStorm
+--------										
+- MS Word 
+- Excel
+- PowerPoint
+- Adobe cloud (InDesign, illustrator, premiere, …)
+- Maxcon cinema4D
+- PHPStorm
 
 
 ##Werkervaring										
-	
-
+--------
  - augustus - september 2015 – 2016 
 	 - Bedrijf: Gent Festival van Vlaanderen 
 Functie: Allround medewerker
@@ -48,16 +52,28 @@ Functie: Allround medewerker
 						                Functie: verkoper
 
 ##Talen											
-Nederlands: moedertaal
-Engels: spreken, schrijven en lezen: goed
-Frans: spreken, lezen en schrijven: redelijk
+--------
+| TAAL      |    Kennis | 
+| :-------- | --------:| 
+| Nederlands  | moedertaal |  
+| Engels    |   spreken, schrijven en lezen: goed |  
+| Frans     |    spreken en lezen: redelijk, schrijven: voldoende | 
 
 
 ##Persoonlijk eigenschappen								
+--------
+- sociaal 
+- stiptheid 
+- zelfzeker 
+- verantwoordelijk.
 
-Sociaal, stiptheid, zelfzeker, verantwoordelijk.
 
 
 ##Hobby’s 
-							
-Scouts (Groepsleiding), muziek en gamen.
+--------							
+- scouts (Groepsleiding)
+- muziek 
+- gamen
+
+
+ 
