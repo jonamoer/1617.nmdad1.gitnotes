@@ -33,7 +33,7 @@
 ##Werkervaring										
  - augustus - september 2015 – 2016 
 	 - Bedrijf: Gent Festival van Vlaanderen 
-Functie: Allround medewerker
+Functie: Productie
  - januari 2015	
 	 - Bedrijf: Festival van Gent (lichtfestival)
 		Functie: Allround medewerker 
