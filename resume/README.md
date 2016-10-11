@@ -67,7 +67,7 @@ Functie: Productie
 ##Hobby’s 							
 - scouts (Groepsleiding)
 - muziek 
-- gamen
+- frisbee
 
 
  
