@@ -59,7 +59,8 @@ Functie: Productie
 - sociaal 
 - stiptheid 
 - zelfzeker 
-- verantwoordelijk.
+- verantwoordelijk
+- sportief
 
 
 
