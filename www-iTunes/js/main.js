@@ -1,25 +1,9 @@
-/********************************************************
- * @author     jonatanmoerman
- * @created    18/10/16
- * @modified   dd/mm/jjjj
- * @copyright Copyright © 2015-2016 Artevelde University College Ghent * @function beschrijf wat het script doet
- * TODO: vervolledig bovenstaande informatie en wis deze todo
- ********************************************************/
-
-//1. Variabelen 
-
-//2. Constructor 
-
-//3. Events
-
-//4. Functies
-
 ;(function() {
 
     function ITunesApp() {
 
         // Use Yahoo as a reverse proxy solve CORS (Cross Origin Resource Sharing problems)
-        this.API_URL = 'https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20json%20where%20url%3D%22https%3A%2F%2Fitunes.apple.com%2Fsearch%3Fterm%3Ddaft%2Bpunk%22&format=json&diagnostics=true&callback=';
+        this.API_URL = 'https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20json%20where%20url%3D%22https%3A%2F%2Fitunes.apple.com%2Fsearch%3Fterm%3Dnetsky%22&format=json&diagnostics=true&callback=';
         this.results;
 
         // Load the data from the API (iTunes)
@@ -55,10 +39,21 @@
         this.updateUI = function() {
             console.log('UPDATE THE UI DUDE');
             console.log(this.results);
-            document.getElementById("divResult").innerHTML =
-                this.results[2].collectionName;
-        }
+            for (i = 0; i < 50; i++) {
+                document.getElementById('divResult').innerHTML +=
+                    "<div class=\"section group opmaak\">" +
 
+                    "<div class=\"col span_2_of_12 \">" + "<img class=\"img\" src=\"" + this.results[i].artworkUrl100 + "\">" + "</div>" +
+
+                    "<div class=\"col span_2_of_12 \">" + this.results[i].artistName + "</div>" +
+
+                    "<div class=\"col span_6_of_12 \">" + this.results[i].trackName +  "</div>" +
+
+                    "<div class=\"col span_1_of_12 \">" + this.results[i].trackPrice + "</div>" +
+
+                    "</div>";
+            };
+        };
     };
 
     // Make an instance of the ITunesApp
