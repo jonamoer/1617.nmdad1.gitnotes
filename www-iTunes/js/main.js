@@ -55,6 +55,8 @@
         this.updateUI = function() {
             console.log('UPDATE THE UI DUDE');
             console.log(this.results);
+            document.getElementById("divResult").innerHTML =
+                this.results[2].collectionName;
         }
 
     };
