@@ -1,0 +1,1312 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 5142,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Bomen.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          416703.0961,
+          6632214.9237
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM3706",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PTEFRA",
+        "Naam": "Pterocarya fraxinifolia",
+        "NaamNL": "Kaukasische vleugelnoot",
+        "Boomhoogte": "9-12 m",
+        "Stamdiameter": "40 - 45",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          418121.4974,
+          6633912.929
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM5885",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILEUP",
+        "Naam": "Tilia europaea 'Pallida'",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "35 - 40",
+        "Plantjaar": 1975,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          418110.041,
+          6633896.1127
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM5888",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "VT",
+        "Boomcode": "TILEUP",
+        "Naam": "Tilia europaea 'Pallida'",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "35 - 40",
+        "Plantjaar": 1975,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          418111.3667,
+          6633831.4673
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM5897",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILEUP",
+        "Naam": "Tilia europaea 'Pallida'",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "40 - 45",
+        "Plantjaar": 1975,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          418453.4724,
+          6632998.0999
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM7499",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "VT",
+        "Boomcode": "AESHIP",
+        "Naam": "Aesculus hippocastanum",
+        "NaamNL": "witte paardenkastanje",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "70 - 75",
+        "Plantjaar": 1940,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          420316.1382,
+          6633064.164
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM7917",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILCOR",
+        "Naam": "Tilia cordata",
+        "NaamNL": "winterlinde",
+        "Boomhoogte": "18-24 m",
+        "Stamdiameter": "25 - 30",
+        "Plantjaar": 1980,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          420163.4017,
+          6632999.0873
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM8009",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "9-12 m",
+        "Stamdiameter": "70 - 75",
+        "Plantjaar": 1950,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409660.5768,
+          6626043.3638
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN971",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "FRAEXC",
+        "Naam": "Fraxinus excelsior",
+        "NaamNL": "gewone es",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "30 - 35",
+        "Plantjaar": 1980,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409563.1003,
+          6626134.1021
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN975",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "FRAEXC",
+        "Naam": "Fraxinus excelsior",
+        "NaamNL": "gewone es",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "35 - 40",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409610.9272,
+          6626144.4115
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN980",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "FRAEXC",
+        "Naam": "Fraxinus excelsior",
+        "NaamNL": "gewone es",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "40 - 45",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407238.7246,
+          6624301.8808
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN1107",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILEUR",
+        "Naam": "Tilia europaea",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": "18-24 m",
+        "Stamdiameter": "60 - 65",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407241.9722,
+          6624277.415
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN1109",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILEUR",
+        "Naam": "Tilia europaea",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": ">24 m",
+        "Stamdiameter": "60 - 65",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407056.8952,
+          6624386.8304
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN2804",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILCOR",
+        "Naam": "Tilia cordata",
+        "NaamNL": "winterlinde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "35 - 40",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407218.3983,
+          6624303.913
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN2987",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILCOR",
+        "Naam": "Tilia cordata",
+        "NaamNL": "winterlinde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "30 - 35",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407188.6093,
+          6624499.6057
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN2996",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILCOR",
+        "Naam": "Tilia cordata",
+        "NaamNL": "winterlinde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "35 - 40",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409465.9005,
+          6626091.989
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN4742",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PRUSERKA",
+        "Naam": "Prunus serrulata 'Kanzan'",
+        "NaamNL": "Japanse sierkers",
+        "Boomhoogte": "6-9 m",
+        "Stamdiameter": "45 - 50",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409527.1846,
+          6626225.5726
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN5329",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PRUSERKA",
+        "Naam": "Prunus serrulata 'Kanzan'",
+        "NaamNL": "Japanse sierkers",
+        "Boomhoogte": "0-6 m",
+        "Stamdiameter": "5 - 10",
+        "Plantjaar": 2005,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407431.2777,
+          6624523.5638
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN5605",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILCOR",
+        "Naam": "Tilia cordata",
+        "NaamNL": "winterlinde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "35 - 40",
+        "Plantjaar": 1980,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          416261.1371,
+          6629096.9265
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID187",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "50 - 55",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2008-01-28T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          416197.4158,
+          6629649.4895
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID219",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "75 - 80",
+        "Plantjaar": 1940,
+        "Mutatiedatum": "2008-01-28T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415366.9829,
+          6631786.0764
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID701",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "15 - 20",
+        "Plantjaar": 1990,
+        "Mutatiedatum": "2008-01-23T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415870.8586,
+          6631258.4802
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID745",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "90 - 95",
+        "Plantjaar": 1920,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415899.5565,
+          6631263.342
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID747",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "85 - 90",
+        "Plantjaar": 1920,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415986.5178,
+          6630220.5743
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID820",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "60 - 65",
+        "Plantjaar": 1950,
+        "Mutatiedatum": "2008-01-28T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415996.6212,
+          6630920.2987
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID894",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILCOR",
+        "Naam": "Tilia cordata",
+        "NaamNL": "winterlinde",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "45 - 50",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415981.4227,
+          6630933.8601
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID896",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILTOM",
+        "Naam": "Tilia tomentosa",
+        "NaamNL": "zilverlinde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "40 - 45",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415917.4233,
+          6630954.1691
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID904",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILTOM",
+        "Naam": "Tilia tomentosa",
+        "NaamNL": "zilverlinde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "55 - 60",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415896.7409,
+          6630959.0869
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID906",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILTOM",
+        "Naam": "Tilia tomentosa",
+        "NaamNL": "zilverlinde",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "55 - 60",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415916.2984,
+          6630375.817
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID961",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "50 - 55",
+        "Plantjaar": 1950,
+        "Mutatiedatum": "2008-01-28T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415485.7174,
+          6633241.4744
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID1021",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "GW",
+        "Opname": "TE",
+        "Boomcode": "ROBPSE",
+        "Naam": "Robinia pseudoacacia",
+        "NaamNL": "valse acacia",
+        "Boomhoogte": "18-24 m",
+        "Stamdiameter": "55 - 60",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2008-01-23T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415460.981,
+          6633590.1658
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID1023",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "GW",
+        "Opname": "TE",
+        "Boomcode": "POPCANDE",
+        "Naam": "Populus x canadensis",
+        "NaamNL": "Canadese populier",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "20 - 25",
+        "Plantjaar": 1990,
+        "Mutatiedatum": "2008-01-23T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415358.2512,
+          6633252.4815
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID1282",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "GW",
+        "Opname": "TE",
+        "Boomcode": "ROBPSE",
+        "Naam": "Robinia pseudoacacia",
+        "NaamNL": "valse acacia",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "30 - 35",
+        "Plantjaar": 1980,
+        "Mutatiedatum": "2008-01-23T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415383.2342,
+          6633246.8044
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID1284",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "GW",
+        "Opname": "TE",
+        "Boomcode": "ROBPSE",
+        "Naam": "Robinia pseudoacacia",
+        "NaamNL": "valse acacia",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "45 - 50",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2008-01-23T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415612.4311,
+          6631306.578
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID1303",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "SG",
+        "Opname": "TE",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "85 - 90",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          415640.5142,
+          6631290.4207
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "ASTRID1305",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "SG",
+        "Opname": "TE",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "75 - 80",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-01-22T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          412548.9609,
+          6633979.0171
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "JAN51",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "CORCOL",
+        "Naam": "Corylus colurna",
+        "NaamNL": "boomhazelaar",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "30 - 35",
+        "Plantjaar": 1970,
+        "Mutatiedatum": "2008-01-28T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          411565.6791,
+          6633673.6393
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "JAN198",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "AESHIP",
+        "Naam": "Aesculus hippocastanum",
+        "NaamNL": "witte paardenkastanje",
+        "Boomhoogte": "9-12 m",
+        "Stamdiameter": "55 - 60",
+        "Plantjaar": 1950,
+        "Mutatiedatum": "2008-01-28T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          411690.1801,
+          6633481.5987
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "JAN665",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "GW",
+        "Opname": "TE",
+        "Boomcode": "FAGSYL",
+        "Naam": "Fagus sylvatica",
+        "NaamNL": "beuk",
+        "Boomhoogte": ">24 m",
+        "Stamdiameter": "75 - 80",
+        "Plantjaar": 1910,
+        "Mutatiedatum": "2008-01-23T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          411637.5249,
+          6633420.4498
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "JAN667",
+        "ACTIE": "Verplaatst",
+        "Locatie": "GE",
+        "Beheerder": "GW",
+        "Opname": "TE",
+        "Boomcode": "FAGSYL",
+        "Naam": "Fagus sylvatica",
+        "NaamNL": "beuk",
+        "Boomhoogte": "6-9 m",
+        "Stamdiameter": "10 - 15",
+        "Plantjaar": 2005,
+        "Mutatiedatum": "2008-01-23T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407218.7403,
+          6624567.5019
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN6171",
+        "ACTIE": "nieuw",
+        "Locatie": " ",
+        "Beheerder": " ",
+        "Opname": " ",
+        "Boomcode": "TILEUR",
+        "Naam": "Tilia europaea",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": ">24 m",
+        "Stamdiameter": "80 - 85",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407265.9759,
+          6624222.4476
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN6194",
+        "ACTIE": "nieuw",
+        "Locatie": " ",
+        "Beheerder": " ",
+        "Opname": " ",
+        "Boomcode": "TILEUR",
+        "Naam": "Tilia europaea",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": ">24 m",
+        "Stamdiameter": "70 - 75",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407223.4754,
+          6624403.7001
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN6226",
+        "ACTIE": "nieuw",
+        "Locatie": " ",
+        "Beheerder": " ",
+        "Opname": " ",
+        "Boomcode": "TILEUR",
+        "Naam": "Tilia europaea",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": ">24 m",
+        "Stamdiameter": "70 - 75",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          407201.6656,
+          6624544.5902
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN6237",
+        "ACTIE": "nieuw",
+        "Locatie": " ",
+        "Beheerder": " ",
+        "Opname": " ",
+        "Boomcode": "TILEUR",
+        "Naam": "Tilia europaea",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": ">24 m",
+        "Stamdiameter": "65 - 70",
+        "Plantjaar": 1930,
+        "Mutatiedatum": "2008-02-19T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          417508.7409,
+          6632628.6598
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM5003",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILPLA",
+        "Naam": "Tilia platyphyllos",
+        "NaamNL": "zomerlinde",
+        "Boomhoogte": "6-9 m",
+        "Stamdiameter": "30 - 35",
+        "Plantjaar": 1975,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          418121.5415,
+          6633830.2774
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM5899",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILEUP",
+        "Naam": "Tilia europaea 'Pallida'",
+        "NaamNL": "Hollandse linde",
+        "Boomhoogte": "12-15 m",
+        "Stamdiameter": "35 - 40",
+        "Plantjaar": 1975,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          418709.2393,
+          6633475.6905
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM7562",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "9-12 m",
+        "Stamdiameter": "70 - 75",
+        "Plantjaar": 1940,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          419820.5716,
+          6632299.8655
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM7685",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "PRUSERKA",
+        "Naam": "Prunus serrulata 'Kanzan'",
+        "NaamNL": "Japanse sierkers",
+        "Boomhoogte": "0-6 m",
+        "Stamdiameter": "40 - 45",
+        "Plantjaar": 1975,
+        "Mutatiedatum": "2007-12-25T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          420313.4964,
+          6633096.7864
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM7893",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "TILCOR",
+        "Naam": "Tilia cordata",
+        "NaamNL": "winterlinde",
+        "Boomhoogte": "18-24 m",
+        "Stamdiameter": "25 - 30",
+        "Plantjaar": 1980,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          420320.9141,
+          6633022.8008
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "AM7907",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "VT",
+        "Boomcode": "PLAACE",
+        "Naam": "Platanus x acerifolia",
+        "NaamNL": "gewone plataan",
+        "Boomhoogte": "18-24 m",
+        "Stamdiameter": "50 - 55",
+        "Plantjaar": 1960,
+        "Mutatiedatum": "2007-12-10T23:00:00.831Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bomen.50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409569.1324,
+          6626151.0235
+        ]
+      },
+      "geometry_name": "Shape",
+      "properties": {
+        "BoomID": "DEN981",
+        "ACTIE": "Verplaatst",
+        "Locatie": "IN",
+        "Beheerder": "SG",
+        "Opname": "BU",
+        "Boomcode": "FRAEXC",
+        "Naam": "Fraxinus excelsior",
+        "NaamNL": "gewone es",
+        "Boomhoogte": "15-18 m",
+        "Stamdiameter": "30 - 35",
+        "Plantjaar": 1980,
+        "Mutatiedatum": "2008-02-20T23:00:00.831Z"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  }
+}
