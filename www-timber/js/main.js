@@ -1,9 +1,9 @@
 ;(function() {
 
-    function ITunesApp() {
+    function timberApp() {
 
         // Use Yahoo as a reverse proxy solve CORS (Cross Origin Resource Sharing problems)
-        this.API_URL = 'https://datatank.stad.gent/4/milieuennatuur/bomeninventaris.json';
+        this.API_URL = 'https://datatank.stad.gent/4/milieuennatuur/inventarisstraatbomen1juli2011.json';
         this.results;
 
         // Load the data from the API (iTunes)
@@ -24,7 +24,7 @@
                 // Get the loaded data
                 var data = (!xhr.responseType)?JSON.parse(xhr.response):xhr.response;
                 // Get the real results from iTunes
-                that.results = features.properties.BoomID;
+                that.results = boomsoorten;
                 // Call the updateUI() function
                 that.updateUI();
             };
@@ -40,12 +40,11 @@
             console.log('UPDATE THE UI DUDE');
             console.log(this.results);
 
-
         };
     };
 
     // Make an instance of the ITunesApp
-    var app = new ITunesApp();
+    var app = new timberApp();
     app.loadData();
 
 })();
